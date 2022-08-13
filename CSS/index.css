@@ -1,0 +1,27 @@
+
+
+
+
+body {
+    margin:0;
+    padding:0;
+    background:
+}
+
+
+
+.name {
+    width: 100%;
+    height: 300px;
+    background: #F1A208;
+    
+}
+
+.name .content {
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 100;
+}
+
+
